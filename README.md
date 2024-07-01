@@ -1,12 +1,12 @@
 
-# 🏗️ WebSkey Snake Game with Scaffold-Base 🔵
+# 🏗️ WebSkey Snake Game with Scaffold-Base 🔵 Play, Unlock, and Conquer in the Web3 World!
 
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
   <a href="https://scaffoldeth.io">Website</a>
 </h4>
 
-Scaffold-Base is a fork of Scaffold-ETH-2 ready to ship to Base. This fork provides native support for Base and Base Sepolia testnet, direct access to the Base faucets, and [coinbase-sdk-wallet](https://github.com/coinbase/coinbase-wallet-sdk/) beta preconfigured which allows 4337 account abstraction using passkeys.
+Scaffold-Base is a fork of Scaffold-ETH-2 ready to ship to Base. This fork provides native support for Base and Base Sepolia testnet, direct access to the Base faucets, and [coinbase-sdk-wallet](https://github.com/coinbase/coinbase-wallet-sdk/) beta preconfigured which allows 4337 account abstraction using passkeys. 
 
 ![Scaffold-Base)](https://github.com/damianmarti/se-2/assets/466652/eac667a7-68fb-4f69-a427-126f7de4114d)
 
