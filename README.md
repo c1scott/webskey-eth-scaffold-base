@@ -1,5 +1,5 @@
 
-# 🏗️ Scaffold-Base 🔵
+# 🏗️ WebSkey Snake Game with Scaffold-Base 🔵
 
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
